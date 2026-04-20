@@ -11,7 +11,7 @@ So far I’ve completed the first section / first interview round. It seems like
 ## Interview Practice
 
 An Interview Primer for Quantitative Finance
-- Current: 14/92 pages 
+- Current: 20/92 pages 
 
 
 I’ve been working on the Akuna “80 in 8”:
