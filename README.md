@@ -16,8 +16,10 @@ An Interview Primer for Quantitative Finance
 
 I’ve been working on the Akuna “80 in 8”:
 
-- Current: 46/80  
+- Current: 70/80  
 - Target: at least 60/80 before Akuna or Optiver recruiting
+
+  I don't know how but I went from 46 to 70 in one day. maybe it's because I'm fresh and focused? 
 
 The main focus here is improving speed and accuracy, especially for:
 - Mental math
