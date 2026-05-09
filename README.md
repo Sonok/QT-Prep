@@ -26,16 +26,7 @@ The main focus here is improving speed and accuracy, especially for:
 - Probability
 - Recognizing common patterns quickly
 
-## IMC Prosperity Prep
-
-For IMC Prosperity, I’m planning to:
-- Review the ETF section from last year
-- Focus on understanding how the market actually behaves rather than just applying static strategies
-
-One key idea I’ve been given is that a lot of the edge comes from inferring how the bots work. So instead of treating it like a standard trading problem, the goal is to:
-- Reverse engineer the underlying mechanisms
-- Adapt strategies based on observed behavior
-- Play as intelligently as possible rather than mechanically
+- Zetamac: 68 new highscore from 65. Haven't scored below 55 in a month almost. 
 
 ## Plan Going Forward
 
